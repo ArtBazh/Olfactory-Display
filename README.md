@@ -1,5 +1,5 @@
 # Olfactory-Display
-A special device for the automatic supply of aromatic markers by reading the activity of neurons from the brain. Purpose: Research to prevent olfactory disorders. In the device, the I used Arduino and Dynamixel-AX-12A because it was a request of the customer. The mechanics were also made by me in accordance with the customer's requirements. It was completed in 20 days from scratch. Now it is using in the Skoltech Neural Laboratory.
+A special device for the automatic supply of aromatic markers by reading the activity of neurons from the brain. Purpose: Research to prevent olfactory disorders. In the device, I used Dynamixel-AX-12A and Arduino because it was a request of the customer. The mechanics were also made by me in accordance with the customer's requirements. It was completed in 20 days from scratch. Now it is using in the Skoltech Neural Laboratory.
 ![1](https://user-images.githubusercontent.com/115483849/232249145-db0119e2-8135-4184-82be-dd9fee706550.jpg)
 ![2](https://user-images.githubusercontent.com/115483849/232249147-e8e266c1-8a9c-4c3f-84ae-c01ddc2b92b3.jpg)
 ![3](https://user-images.githubusercontent.com/115483849/232249148-e382b084-bc2b-43ca-ac3d-c67e6f25a70b.jpg)
